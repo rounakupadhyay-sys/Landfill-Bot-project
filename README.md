@@ -35,7 +35,7 @@
  * Page 16: Working Principle — Aquatic Mode (Water)
    * Step-by-step breakdown: Dual US and IR sensor navigation, surface trash scoop via front section hole, underwater decomposing matter collection, and transfer to onboard composter.
  * Page 17: Software & Algorithm Flowchart
-   * Logic flowchart of the control loop (Sensor Input AI Classification Motor Control Sorting Action). Link to GitHub repository ([github.com/mounakupadhyay-sys/LandFill-Bots](https://github.com/rounakupadhyay-sys/Landfill-Bots/Landfill_bots_build_roadmap.pdf)).
+   * Logic flowchart of the control loop (Sensor Input AI Classification Motor Control Sorting Action). Link to GitHub repository ([github.com/mounakupadhyay-sys/LandFill-Bots](https://github.com/rounakupadhyay-sys/Landfill-Bots/Landfill_Bots_Build_Roadmap.pdf)).
  * Page 18: Project Timeline & Activity Log (Days 1–7)
    * Expand on Image 6 (1000163386.heic):
      * 18/6/2026 – 19/6/2026: Problem Identification & Community Survey execution.
